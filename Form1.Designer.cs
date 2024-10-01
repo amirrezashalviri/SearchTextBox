@@ -76,7 +76,7 @@
             searchTextBox3.TabIndex = 2;
             searchTextBox3.text = "";
             searchTextBox3.titleText = "Title";
-            searchTextBox3.UserSearchClick += searchTextBox3_UserSearchClick;
+            searchTextBox3.UserSearchClick += searchTextBox1_UserSearchClick;
             // 
             // searchTextBox4
             // 
