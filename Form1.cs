@@ -7,7 +7,7 @@ namespace SearchTextBox
             InitializeComponent();
         }
 
-        private void searchTextBox3_UserSearchClick(object sender, EventArgs e)
+        private void searchTextBox1_UserSearchClick(object sender, EventArgs e)
         {
 
         }
